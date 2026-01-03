@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="87628e55-f0d4-5e8a-df69-ad6cf3dd9d8c"/>
+            <attribute id="Name" type="LSString" value="githyanki_larger_pupils"/>
+            <attribute id="UUID" type="LSString" value="a7a38e46-e34a-0a84-15bb-fa5063b90f12"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
