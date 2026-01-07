@@ -48,10 +48,10 @@
                     <attribute id="Name" type="LSString" value="Larger Pupils for Githyanki Eyes"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
-                    <attribute id="PublishHandle" type="uint64" value="0"/>
+                    <attribute id="PublishHandle" type="uint64" value="5666261"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="87628e55-f0d4-5e8a-df69-ad6cf3dd9d8c"/>
-                    <attribute id="Version64" type="int64" value="36028797018963970"/>
+                    <attribute id="Version64" type="int64" value="36028797018963972"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927718626661"/>
